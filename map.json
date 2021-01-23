@@ -150,7 +150,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -875,7 +875,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -898,7 +898,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"fantasy.png",
+         "image":"tilesets\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1030,7 +1030,7 @@
         {
          "columns":16,
          "firstgid":1385,
-         "image":"tilesets_deviant_milkian_2.png",
+         "image":"tilesets\/tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1126,7 +1126,7 @@
         {
          "columns":16,
          "firstgid":1641,
-         "image":"tilesets_deviant_milkian_3.png",
+         "image":"tilesets\/tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1276,7 +1276,7 @@
         {
          "columns":16,
          "firstgid":1897,
-         "image":"tilesets_deviant_milkian_4.png",
+         "image":"tilesets\/tilesets_deviant_milkian_4.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1309,7 +1309,7 @@
         {
          "columns":64,
          "firstgid":2153,
-         "image":"water.png",
+         "image":"tilesets\/water.png",
          "imageheight":1536,
          "imagewidth":2048,
          "margin":0,
