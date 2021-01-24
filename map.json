@@ -96,7 +96,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"office_1.json"
+                 "value":".\/office_1.json"
                 }, 
                 {
                  "name":"exitSceneUrlTrigger",
@@ -114,7 +114,7 @@
          "height":19,
          "id":2,
          "name":"walls_floor",
-         "opacity":0.53,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":19,
