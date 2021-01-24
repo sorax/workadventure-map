@@ -1401,6 +1401,20 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":5,
+         "firstgid":5225,
+         "image":"tilesets\/exit_tile.png",
+         "imageheight":160,
+         "imagewidth":160,
+         "margin":0,
+         "name":"exit",
+         "spacing":0,
+         "tilecount":25,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
